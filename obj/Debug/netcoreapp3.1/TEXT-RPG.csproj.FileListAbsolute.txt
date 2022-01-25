@@ -1,0 +1,14 @@
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.exe
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.deps.json
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.runtimeconfig.json
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.runtimeconfig.dev.json
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.dll
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\bin\Debug\netcoreapp3.1\TEXT-RPG.pdb
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.AssemblyInfoInputs.cache
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.AssemblyInfo.cs
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.csproj.CoreCompileInputs.cache
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.dll
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.pdb
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.genruntimeconfig.cache
+C:\Users\qqq25\OneDrive\바탕 화면\깃허브\TEXT-RPG\TEXT-RPG\obj\Debug\netcoreapp3.1\TEXT-RPG.csproj.AssemblyReference.cache
